@@ -1,0 +1,7 @@
+@charset "utf-8";
+#con {
+    color: rgba(250,250,250,1.00);
+    background-image: -webkit-linear-gradient(270deg,rgba(12,11,11,1.00) 0%,rgba(24,39,127,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(12,11,11,1.00) 0%,rgba(24,39,127,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(12,11,11,1.00) 0%,rgba(24,39,127,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(12,11,11,1.00) 0%,rgba(24,39,127,1.00) 100%);

@@ -1,0 +1,11 @@
+@charset "utf-8";
+body {
+    background-color: #A71F21;
+}
+.container table {
+    background-color: rgba(131,167,230,1.00);
+}
+#call {
+    border-radius: 50;
+    background-color: rgba(17,5,214,1.00);
+}

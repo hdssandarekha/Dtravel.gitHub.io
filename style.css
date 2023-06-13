@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+.container #carouselExampleIndicators1 {
+}
+.container {
+    background-image: -webkit-linear-gradient(270deg,rgba(37,33,149,1.00) 5.39%,rgba(249,250,251,1.00) 33.16%,rgba(94,139,248,1.00) 65.60%,rgba(20,19,187,1.00) 90.99%);
+    background-image: -moz-linear-gradient(270deg,rgba(37,33,149,1.00) 5.39%,rgba(249,250,251,1.00) 33.16%,rgba(94,139,248,1.00) 65.60%,rgba(20,19,187,1.00) 90.99%);
+    background-image: -o-linear-gradient(270deg,rgba(37,33,149,1.00) 5.39%,rgba(249,250,251,1.00) 33.16%,rgba(94,139,248,1.00) 65.60%,rgba(20,19,187,1.00) 90.99%);
+    background-image: linear-gradient(180deg,rgba(37,33,149,1.00) 5.39%,rgba(249,250,251,1.00) 33.16%,rgba(94,139,248,1.00) 65.60%,rgba(20,19,187,1.00) 90.99%);
+
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(35,25,205,1.00) 0%,rgba(12,11,11,1.00) 86.74%);
+    background-image: -moz-linear-gradient(270deg,rgba(35,25,205,1.00) 0%,rgba(12,11,11,1.00) 86.74%);
+    background-image: -o-linear-gradient(270deg,rgba(35,25,205,1.00) 0%,rgba(12,11,11,1.00) 86.74%);
+    background-image: linear-gradient(180deg,rgba(35,25,205,1.00) 0%,rgba(12,11,11,1.00) 86.74%);
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+}
+.nav-item.dropdown .btn-group .btn.btn-link {
+    color: #FFFFFF;
+}
+.nav-item.dropdown .btn-group .dropdown-menu {
+    color: #FFFFFF;
+    background-color: #02052F;
+}
+.btn-group .dropdown-menu .dropdown-header {
+    color: #FFFFFF;
+}
+.btn-group .dropdown-menu .dropdown-item {
+    color: #FFFFFF;
+}
+.col-lg-3 b center {
+    color: #FFFFFF;
+}
+.col-lg-3 center b {
+    color: #FFFFFF;
+}
+.row .col-lg-3 a {
+    color: #FFFFFF;
+}
+.carousel-inner .carousel-item.active #car1 {
+    width: 10%;
+    height: 80%;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #071139;
+
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #071139;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #071139;
+}
+.card .card #headingFour {
+    background-color: #071139;
+}
+.container #carouselExampleIndicators1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(22,5,89,1.00) 5.80%,rgba(78,23,251,1.00) 32.54%,rgba(249,245,245,1.00) 83.01%);
+    background-image: -moz-linear-gradient(270deg,rgba(22,5,89,1.00) 5.80%,rgba(78,23,251,1.00) 32.54%,rgba(249,245,245,1.00) 83.01%);
+    background-image: -o-linear-gradient(270deg,rgba(22,5,89,1.00) 5.80%,rgba(78,23,251,1.00) 32.54%,rgba(249,245,245,1.00) 83.01%);
+    background-image: linear-gradient(180deg,rgba(22,5,89,1.00) 5.80%,rgba(78,23,251,1.00) 32.54%,rgba(249,245,245,1.00) 83.01%);
+}
+
+.container #carouselExampleIndicators1 {
+    background-color: #5365EA;
+}
+body {
+     background-image: -webkit-linear-gradient(270deg,rgba(37,33,149,1.00) 5.39%,rgba(249,250,251,1.00) 33.16%,rgba(94,139,248,1.00) 65.60%,rgba(20,19,187,1.00) 90.99%);
+}
